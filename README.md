@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kiran Klawun
 - 👀 I’m interested in energy simulations
-- 🌱 I’m currently studying for a master's degree in "sustainable energy systems" [university of applied sciences Hamburg]
+- 🌱 I’m currently work for a heat contractor as a development engineer for renewable energy systems
 - 📫 How to reach me: kiran.klawun@gmail.com
 
 
