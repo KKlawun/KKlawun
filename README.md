@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kiran Klawun
 - 👀 I’m interested in energy simulations
-- 🌱 I’m currently work for a heat contractor as a development engineer for renewable energy systems
+- 🌱 I currently work for a heat contractor as a development engineer for renewable energy systems
 - 📫 How to reach me: kiran.klawun@gmail.com
 
 
